@@ -1,5 +1,5 @@
+package com.license.licensetools;
 import android.util.Log;
-
 import java.lang.reflect.Method;
 
 public class LicenseTools {
